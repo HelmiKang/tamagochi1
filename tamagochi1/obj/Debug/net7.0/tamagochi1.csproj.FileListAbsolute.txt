@@ -1,0 +1,14 @@
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\bin\Debug\net7.0\tamagochi1.exe
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\bin\Debug\net7.0\tamagochi1.deps.json
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\bin\Debug\net7.0\tamagochi1.runtimeconfig.json
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\bin\Debug\net7.0\tamagochi1.dll
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\bin\Debug\net7.0\tamagochi1.pdb
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.AssemblyInfoInputs.cache
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.AssemblyInfo.cs
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.csproj.CoreCompileInputs.cache
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.dll
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\refint\tamagochi1.dll
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.pdb
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\tamagochi1.genruntimeconfig.cache
+c:\Users\helmi.kangasmaa\Desktop\prpr2\tamagochi1\tamagochi1\obj\Debug\net7.0\ref\tamagochi1.dll
